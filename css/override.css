@@ -8,6 +8,7 @@
 }
 
 =======
+<<<<<<< HEAD
 .img-size{
   height: 300px;
   width: 300px;
@@ -16,4 +17,14 @@
   background-position: center center;
 }
 
+=======
+.img-size{
+  height: 300px;
+  width: 300px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+>>>>>>> 9bd5b5ae1a39292bcac85742028e9d87d2034223
 >>>>>>> 02571176791c99880935d7629830d407b93e6e93

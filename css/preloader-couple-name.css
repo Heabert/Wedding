@@ -19,6 +19,7 @@
 	color:#f0394d;
 }
 =======
+<<<<<<< HEAD
 .top-heart{
 	color:#f0394d;
 	font-size:40px;
@@ -38,4 +39,25 @@
 	line-height:35px;
 	color:#f0394d;
 }
+=======
+.top-heart{
+	color:#f0394d;
+	font-size:40px;
+	line-height:45px;
+}
+
+.his-name{
+	font-family: 'Oswald', sans-serif; 
+	font-size:30px;
+	line-height:35px;
+	color:#FFF;
+}
+
+.her-name{
+	font-family: 'Oswald', sans-serif; 
+	font-size:30px;
+	line-height:35px;
+	color:#f0394d;
+}
+>>>>>>> 9bd5b5ae1a39292bcac85742028e9d87d2034223
 >>>>>>> 02571176791c99880935d7629830d407b93e6e93
